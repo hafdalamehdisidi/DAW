@@ -1,0 +1,19 @@
+Temas a estudiar en programación:
+
+Tema ---------conceptos básicos.
+
+Tema 2---------------Condicionales
+
+Tema 3---------------Bucles
+
+
+Tema 4---------------Funciones
+
+
+Tema 5---------------Arrays
+
+
+Tema 6---------------Strings
+
+
+Tema 7---------------Clases
